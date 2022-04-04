@@ -13,14 +13,24 @@ object detection repo: https://github.com/tensorflow/models/tree/master/research
 
 # Steps:
 1 . Installation of necessary libraries
+
 2. Preparing dataset for Custom Training
+
 3. Using a Pretrained Model
+
 4. Creating a Labelmap.pbtxt
+
 5. Creating xml to csv
+
 6. Creating tensorflow records files from csv
+
 7. Getting the config file and do the necessary changes
+
 8. Start the training
+
 9. Model Evaluation
+
 10. Exporting the graph
+
 11. Doing prediction on trained model
 12. Using webcam for Prediction
