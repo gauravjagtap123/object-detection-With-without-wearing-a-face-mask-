@@ -6,15 +6,6 @@ Due to ongoing Corona pandemic, wearing mask has become an integral part of our 
 # Without_Mask
 ![without_mask](https://user-images.githubusercontent.com/82416394/161498965-8c381e9c-7e4b-41a0-b059-c3863b30e1e6.JPG)
 
-Link :  https://blog.tensorflow.org/2020/07/tensorflow-2-meets-object-detection-api.html
-
-object detection repo: https://github.com/tensorflow/models/tree/master/research/object_detection
-
-Tensorflow Models Repo : https://github.com/tensorflow/models
-
-Tensorflow Model Selection : https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md
-
-
 
 # Steps:
 
@@ -39,4 +30,15 @@ Tensorflow Model Selection : https://github.com/tensorflow/models/blob/master/re
 10. Exporting the graph
 
 11. Doing prediction on trained model
+
 12. Using webcam for Prediction
+
+
+
+Link :  https://blog.tensorflow.org/2020/07/tensorflow-2-meets-object-detection-api.html
+
+object detection repo: https://github.com/tensorflow/models/tree/master/research/object_detection
+
+Tensorflow Models Repo : https://github.com/tensorflow/models
+
+Tensorflow Model Selection : https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md
