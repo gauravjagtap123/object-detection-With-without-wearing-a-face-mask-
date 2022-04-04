@@ -1,1 +1,1 @@
-# object-detection- With and without wearing a face-mask
+Due to ongoing Corona pandemic, wearing mask has become an integral part of our lives. Nowadays it is important to wear a face mask to ensure the safety of ourself and others.I have created a simple object detection model that can detect whether you are wearing a mask or not. I have utilized the object detection API and tensorflow framework and used a pretrained model RetinaNet50 from "Model Zoo". Ih= have used face mask detection datasets from "kaggle". The model has achieved 90% accuracy with testing data.
