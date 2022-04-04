@@ -12,6 +12,7 @@ object detection repo: https://github.com/tensorflow/models/tree/master/research
 
 
 # Steps:
+
 1 . Installation of necessary libraries
 
 2. Preparing dataset for Custom Training
